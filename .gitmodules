@@ -1,3 +1,5 @@
+
 [submodule "external/wxwidgets"]
 	path = external/wxwidgets
-	url = git@github.com:wxWidgets/wxWidgets.git
+	url = git://github.com/wxwidgets/wxwidgets.git
+	branch = v3.0.5.1
